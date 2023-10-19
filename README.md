@@ -29,7 +29,8 @@ Puedes utilizar éste repositorio para tu uso personal o comercial.
 ### Bibliotecas
 
 * simple_calendar
-* bulma
+* bulma-rails
+* rails-i18n
 
 <p align="right">(<a href="#top">Subir</a>)</p>
 
