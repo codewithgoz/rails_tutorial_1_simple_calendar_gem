@@ -12,7 +12,6 @@ El prototipo permite
 
 * Crear citas
 * Editar citas
-* Eliminar citas
 * Visualizar las citas en un calendario
 
 Puedes utilizar éste repositorio para tu uso personal o comercial.
