@@ -1,9 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 # Prototipo de Sistema de Citas para Consultorio Médico
 
-[![Product Name Screen Shot][product-screenshot]](https://codewithgoz/tutorials/5)
+[![Product Name Screen Shot][product-screenshot]](https://codewithgoz.com/tutorials/5)
 
-<p align="center"><a href="https://codewithgoz/tutorials/5">VER VIDEO</a></p>
+<p align="center"><a href="https://codewithgoz.com/tutorials/5">VER VIDEO</a></p>
 
 En este repositorio encontrarás un proyecto en Rails el cual busca
 mostrar cómo se utiliza la gema simple_calendar.
